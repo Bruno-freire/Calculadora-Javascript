@@ -28,8 +28,11 @@ input.addEventListener('keydown', function(ev){
   if(ev.key === "Backspace"){
     input.value = input.value.slice(0,-1)
   }
-  if(ev.key === "Enter"){
+  if(ev.key === 'Enter'){
     calculate()
+    if(resultInput.value == 'undefined'){
+      resultInput.value = 0
+    }
   }
 })
 input.addEventListener('keydown',function(ev){
