@@ -14,11 +14,6 @@ function calculate(){
   resultInput.classList.remove('error')
 }
 
-function backCopy(){
-  const texto = document.getElementById('copyToClipboard')
-  texto.innerText = 'copy'
-}
-
 input.addEventListener('keydown', function(ev){
   ev.preventDefault()
   if(allowedKeys.includes(ev.key)){
@@ -35,16 +30,11 @@ input.addEventListener('keydown', function(ev){
     }
   }
 })
-input.addEventListener('keydown',function(ev){
-  ev.preventDefault()
-  if(resultInput.value == "error"){
-    resultInput.value = ''
-  }
-})
 
 document.querySelectorAll(".charKey").forEach(function (charKeyBtn){
   charKeyBtn.addEventListener('click', function(){
     input.value += charKeyBtn.dataset.value
+    input.focus()
   })
 })
 
