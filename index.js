@@ -12,6 +12,10 @@ function calculate(){
   const result = eval(input.value)
   resultInput.value = result
   resultInput.classList.remove('error')
+  if(resultInput.value == "undefined"){
+    resultInput.value = "0"
+    resultInput.classList.remove('error')
+  }
 }
 
 input.addEventListener('keydown', function(ev){
@@ -25,9 +29,6 @@ input.addEventListener('keydown', function(ev){
   }
   if(ev.key === 'Enter'){
     calculate()
-    if(resultInput.value == 'undefined'){
-      resultInput.value = 0
-    }
   }
 })
 
