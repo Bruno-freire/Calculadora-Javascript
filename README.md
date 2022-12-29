@@ -1,6 +1,15 @@
 # Calculadora-Javascript
 
-  Uma calculadora completa usando js pra consolidar conhecimentos obtidos durante meu trajeto, usei html5, css3 e js apenas nesse projeto por que nao vi utilidade no uso de outras tecnologias como Saas(até poderia ter sido utilizada para criação de variaveis, mas o projeto é simples demais para tal necessidade de uso) e bootstrap.
-  segue o link da aplicação: https://bruno-freire.github.io/Calculadora-Javascript/
-  O projeto possui uma perfeita responsividade, e no sentido de funcionamentos, faltaram alguns poucos detalhes a serem programados, como o copy voltar ao estado normal de 'copy' sozinho.
-O projeto possui alguns detalhes interessantes como  a impossibilidade de escrever na caixa de digitação valores que nao sao aceitas pela calculadora, e mensagem de error.
+  💭Descrição
+Uma calculadora com funcionamento ótimo, meu primeiro projeto onde implantei o modo de trabalho com módulos, código limpo feito para consolidar conhecimentos ate o momento de minha trajetoria.
+
+Funcionalidades:
+
+Realizar calculos matemáticos simples
+Notificação de erro
+Tema escuro e claro, basta escolher
+
+👨‍💻Principais tecnologias:
+Html5
+Css3
+Javascript
