@@ -1,6 +1,7 @@
 # Calculadora-Javascript
 
   💭Descrição
+  
 Uma calculadora com funcionamento ótimo, meu primeiro projeto onde implantei o modo de trabalho com módulos, código limpo feito para consolidar conhecimentos ate o momento de minha trajetoria.
 
 Funcionalidades:
