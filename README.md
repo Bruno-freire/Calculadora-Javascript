@@ -14,9 +14,7 @@ This project is a simple calculator that can perform basic arithmetic operations
 
 # Installation
 
-    Clone the repository
-
-bash
+   Clone the repository
 
      git clone https://github.com/Bruno-freire/calc.js.git
 
