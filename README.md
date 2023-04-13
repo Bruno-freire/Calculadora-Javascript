@@ -18,9 +18,9 @@ This project is a simple calculator that can perform basic arithmetic operations
 
 bash
 
-git clone https://github.com/<your-username>/calc.js.git
+     git clone https://github.com/Bruno-freire/calc.js.git
 
-    Open the index.html file in your web browser.
+   Open the index.html file in your web browser.
 
 # Usage
 
@@ -31,7 +31,7 @@ git clone https://github.com/<your-username>/calc.js.git
 
 # Credits
 
-This project was created by [your name].
+This project was created by OneBitCode.
 
 # License
 
