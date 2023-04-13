@@ -1,19 +1,40 @@
-# Calculadora-Javascript
+# Calc.js
 
-  💭Descrição
-  
-Uma calculadora com funcionamento ótimo, meu primeiro projeto onde implantei o modo de trabalho com módulos, código limpo feito para consolidar conhecimentos ate o momento de minha trajetoria.
+A simple calculator made with HTML, CSS, and JavaScript.
 
-Funcionalidades:
+# Description
 
-Realizar calculos matemáticos simples
-Notificação de erro
-Tema escuro e claro, basta escolher
+This project is a simple calculator that can perform basic arithmetic operations. It was built using HTML, CSS, and JavaScript. The calculator allows users to enter numbers and perform operations like addition, subtraction, multiplication, division, and modulus. The user interface of the calculator is simple and easy to use.
 
-👨‍💻Principais tecnologias:
+# Features
 
-Html5
-Css3
-Javascript
+    Addition, subtraction, multiplication, division, and modulus operations.
+    Simple and intuitive user interface.
+    Dark and light themes.
+
+# Installation
+
+    Clone the repository
+
+bash
+
+git clone https://github.com/<your-username>/calc.js.git
+
+    Open the index.html file in your web browser.
+
+# Usage
+
+    Enter the numbers and operations using the buttons provided.
+    Press the equals (=) button to get the result.
+    Use the C button to clear the input field.
+    Use the Copy button to copy the result to the clipboard.
+
+# Credits
+
+This project was created by [your name].
+
+# License
+
+This project is licensed under the MIT License.
 
 link do site: https://bruno-freire.github.io/Calculadora-Javascript/
