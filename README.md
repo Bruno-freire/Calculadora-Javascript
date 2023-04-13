@@ -35,4 +35,4 @@ This project was created by OneBitCode.
 
 This project is licensed under the MIT License.
 
-link do site: https://bruno-freire.github.io/Calculadora-Javascript/
+Follow the link to access the website: https://bruno-freire.github.io/Calculadora-Javascript/
